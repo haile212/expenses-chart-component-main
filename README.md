@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [LINK](https://expenses-chart-component-main01.netlify.app/)
 
 ## My process
 
@@ -55,6 +54,7 @@ Users should be able to:
 
 
 ## Author
+
 
 - Frontend Mentor - [@haile212](https://www.frontendmentor.io/profile/haile212)
 
